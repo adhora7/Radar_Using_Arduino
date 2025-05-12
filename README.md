@@ -16,8 +16,7 @@ This project demonstrates a **Radar using Arduino** with an ultrasonic sensor an
 
 The ultrasonic sensor emits sound waves and measures the time it takes for the waves to return. This time is then converted into a distance. The servo motor rotates the sensor from 0 to 180 degrees, capturing distances at each angle. The data is sent to a laptop, where it is visualized as a radar sweep.
 
-### System Diagram:
-![Project Setup](./Image and video of the project/radar.jpg)
+![Project Setup](./Image_and_Video_of_the_project/radar.jpg)
 
 
 **Figure 1**: The setup shows the ultrasonic sensor and servo motor connected to the Arduino, with the radar visualization displayed on the laptop.
